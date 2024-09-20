@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\VS code\\PR-3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148BD071-D3C7-4DFE-804B-2B95F13D88BF}|PR-3.4.vcxproj|D:\\VS\\VS code\\PR-3.4\\PR-3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{148BD071-D3C7-4DFE-804B-2B95F13D88BF}|PR-3.4.vcxproj|solutionrelative:PR-3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR-3.4.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR-3.4\\PR-3.4.cpp",
+              "RelativeDocumentMoniker": "PR-3.4.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR-3.4\\PR-3.4.cpp",
+              "RelativeToolTip": "PR-3.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T13:51:15.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
